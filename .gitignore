@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+.conda/
+*.egg-info/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Jupyter runtime & history
+.jupyter/
+.ipython/
+.python_history
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Common data files (optional; only if they’re generated or too large)
+*.csv
+*.tsv
+*.parquet
+*.h5
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# VSCode / IDE settings
+.vscode/
+.idea/
